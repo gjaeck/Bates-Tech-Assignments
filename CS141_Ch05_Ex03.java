@@ -2,9 +2,6 @@
 //CS141 Chapter 5
 //Exercise 3
 
-import java.util.*;
-import java.lang.*;
-
 class CS141_Ch05_Ex03 {
     public static void main(String[] args) {
         System.out.println("Gunnar Jaeck\nCS141 Chapter 5\nExercise 3\n");
